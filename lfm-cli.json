@@ -1,0 +1,21 @@
+{
+    "version": "1.6.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.0/lfm-cli_1.6.0_windows_386.zip",
+            "bin": [
+                "lfm-cli.exe"
+            ],
+            "hash": "5b14675d83fabbd9b866bd71dcac247cd3c5644e818af07e6578b6e0714e2193"
+        },
+        "64bit": {
+            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.0/lfm-cli_1.6.0_windows_amd64.zip",
+            "bin": [
+                "lfm-cli.exe"
+            ],
+            "hash": "6860361f18aede59d526e387dcb4e0ddec45c29d9acccf0c1fe165b043114ab2"
+        }
+    },
+    "homepage": "https://github.com/twangodev/lfm-cli",
+    "description": "Show your Last.FM scrobbles on Discord."
+}
