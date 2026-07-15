@@ -1,19 +1,19 @@
 {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.1/lfm-cli_1.6.1_windows_386.zip",
+            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.2/lfm-cli_1.6.2_windows_386.zip",
             "bin": [
                 "lfm-cli.exe"
             ],
-            "hash": "74af877818ad3e7a67696ffa4eacaaca948874d628829e01022ef2a0ae76d5cb"
+            "hash": "4aa372e444bf2c455bc5301ed2b93ec539b95fdce615b6e22246d15748108dd3"
         },
         "64bit": {
-            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.1/lfm-cli_1.6.1_windows_amd64.zip",
+            "url": "https://github.com/twangodev/lfm-cli/releases/download/v1.6.2/lfm-cli_1.6.2_windows_amd64.zip",
             "bin": [
                 "lfm-cli.exe"
             ],
-            "hash": "d79feb39f3f28fa88fb028cd6cecd771ddcedb5d605e60085a9bb8368e97a318"
+            "hash": "ffd662004b6a0cdf16ffce0fe2fddea55fe5bf0c9e501000b8bd4a045ae7b140"
         }
     },
     "homepage": "https://github.com/twangodev/lfm-cli",
